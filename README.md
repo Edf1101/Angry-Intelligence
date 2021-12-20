@@ -7,7 +7,7 @@ I made this to get to grips with the Unity NavMesh system and using Raycasts for
 **Controls**
 
 
-E - Enter Player POV 
-S - Smite 
-Esc/X - Exit Player POV
-R - Restart
+E - Enter Player POV    
+S - Smite     
+Esc/X - Exit Player POV   
+R - Restart   
